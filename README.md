@@ -1,1 +1,9 @@
-# PiraiprojectQR
+# PIRAI INFOTECH
+
+REACT NATIVE ANDROID QR CODE APP
+
+1. TO INSTALL THE APP, RUN THE FOLLOWING COMMANDS
+
+`npm install`
+
+`react-native run-android`
